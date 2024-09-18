@@ -1,4 +1,5 @@
-I built this interactive financial statistic dashboard using Excel (vlookups, pivotable, core functions,...). 
+I built this interactive financial statistic dashboard using Excel (vlookups, pivotable, core functions,...). The combination of dark themes, glowing data points, and well-organized graphs probably creates an impressive, modern aesthetic that feels intuitive and user-friendly, enhancing both the visual appeal and the functionality of the dashboard. The use of visual hierarchy, lighting effects, and clear connections between data points adds to the feeling of interactivity and engagement, making it not just a tool for insights but also an experience in itself. This type of design often surprises and delights users, keeping them more engaged with the data and potentially making the insights easier to digest.
+
 The whole excel file can be found at Financial Statistics Dashboard Systems.xlsx. Full insights and recommendations can be found at "Insights and Strategies.docx"
 
 1. Income Sources Dashboard:
