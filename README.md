@@ -1,5 +1,5 @@
 I built this interactive financial statistic dashboard using Excel (vlookups, pivotable, core functions,...). 
-The whole excel file can be found at Financial Statistics Dashboard Systems.xlsx. Full insights and recommendations can be found at "Insights and Strategies.word file"
+The whole excel file can be found at Financial Statistics Dashboard Systems.xlsx. Full insights and recommendations can be found at "Insights and Strategies.docx"
 
 1. Income Sources Dashboard:
    
